@@ -1,1 +1,1 @@
-# Tableaub Superstore dashboard
+# Tableau Superstore dashboard
